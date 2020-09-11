@@ -18,10 +18,10 @@
 <summary>More Details</summary>
 <h3>My Values</h3>
   <ul>
-    <li>Reason</li>
-    <li>Liberty</li>
-    <li>Equality</li>
-    <li>Peace</li>
+    <li>🧠 Reason</li>
+    <li>🗽 Liberty</li>
+    <li>⚖️ Equality</li>
+    <li>☮️ Peace</li>
   </ul>
 <h3>Get in Touch</h3>
   <ul>
