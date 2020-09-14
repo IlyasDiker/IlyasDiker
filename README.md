@@ -9,6 +9,9 @@
 <a href="https://www.instagram.com/ilyaslezwin/">
   <img align="left" width="20px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>
+<a href="https://www.linkedin.com/in/ilyasbenhssine/">
+  <img align="left" width="20px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
 
 --------------
 
