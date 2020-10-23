@@ -16,7 +16,7 @@
 --------------
 
 ![IlyasDiker Github Stats](https://github-readme-stats.vercel.app/api?username=IlyasDiker&show_icons=true&theme=default)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasDiker&layout=compact)](https://github.com/IlyasDiker/github-readme-stats)
 <details>
 <summary>More Details</summary>
 <h3>Human Benchmark</h3>
