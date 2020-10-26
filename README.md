@@ -49,19 +49,23 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <h3>Data Visualization</h3>
   <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
+  <a href="https://datatables.net/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Datatables_logo_square.png" alt="datatable" width="40" height="40"/> </a>
   <h3>Devops</h3>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <h3>Framework</h3>
   <a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+  <a href="https://moodle.org/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/moodle/moodle-original.svg" alt="moodle" width="40" height="40"/> </a> 
   <h3>Software</h3>
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <h3>Other</h3>
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.debian.org/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/debian/debian-original-wordmark.svg" alt="debian" width="40" height="40"/> </a> 
+  <a href="https://ubuntu.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
 </details>
 
