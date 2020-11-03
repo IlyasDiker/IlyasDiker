@@ -54,6 +54,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <h3>Framework</h3>
   <a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://moodle.org/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/moodle/moodle-original.svg" alt="moodle" width="40" height="40"/> </a> 
   <h3>Software</h3>
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop" width="40" height="40"/> </a>
