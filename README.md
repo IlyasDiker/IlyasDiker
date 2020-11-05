@@ -98,4 +98,4 @@
 
 --------------
 
-<img align="left" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-lightgrey">
+<img align="left" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-lightgrey"> <img src="https://visitor-badge.glitch.me/badge?page_id=ilyasdiker.visitor-badge" alt="visitor badge"/>
