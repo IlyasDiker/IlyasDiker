@@ -12,9 +12,6 @@
 <a href="https://www.linkedin.com/in/ilyasbenhssine/">
   <img align="left" width="20px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
-<a href="https://sourcerer.io/ilyasdiker">
-  <img align="left" height="20px" src="https://user-images.githubusercontent.com/20287615/34189346-d426d4c2-e4ef-11e7-9da4-cc76a1ed111d.png"/>
-</a>
 
 --------------
 
