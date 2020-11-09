@@ -103,6 +103,12 @@
     <li>Learning Laravel</li>
     <li>Learning Django</li>
   </ul>
+<h3>Old Projects</h3>
+  <ul>
+    <li>GNXT Computers</li>
+    <li>XSO Keys</li>
+    <li>Moul T-shirt</li>
+  </ul>
 </details>
 
 --------------
