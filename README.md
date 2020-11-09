@@ -95,6 +95,15 @@
   </ul>
  
 </details>
+<details>
+<summary>Projects & Works</summary>
+<h3>Currently Working on</h3>
+  <ul>
+    <li>ART OF KARS</li>
+    <li>Learning Laravel</li>
+    <li>Learning Django</li>
+  </ul>
+</details>
 
 --------------
 
