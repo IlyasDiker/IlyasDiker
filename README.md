@@ -99,7 +99,7 @@
 <summary>Projects & Works</summary>
 <h3>Currently Working on</h3>
   <ul>
-    <li>ART OF KARS</li>
+    <li><a href="https://github.com/The-art-of-kars">ART OF KARS</a></li>
     <li>Learning Laravel</li>
     <li>Learning Django</li>
   </ul>
