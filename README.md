@@ -100,7 +100,7 @@
 <h3>Currently Working on</h3>
   <ul>
     <li><a href="https://github.com/The-art-of-kars">ART OF KARS</a></li>
-    <li>Learning Laravel</li>
+    <li>Blabler Chat Platform</li>
     <li>Learning Django</li>
   </ul>
 <h3>Old Projects</h3>
