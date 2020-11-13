@@ -101,7 +101,6 @@
   <ul>
     <li><a href="https://github.com/The-art-of-kars">ART OF KARS</a></li>
     <li>Blabler Chat Platform</li>
-    <li>Learning Django</li>
   </ul>
 <h3>Old Projects</h3>
   <ul>
