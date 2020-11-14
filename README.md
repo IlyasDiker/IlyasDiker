@@ -100,7 +100,7 @@
 <h3>Currently Working on</h3>
   <ul>
     <li><a href="https://github.com/The-art-of-kars">ART OF KARS</a></li>
-    <li>Blabler Chat Platform</li>
+    <li><a href="https://github.com/blabler">Blabler Chat Platform</a></li>
   </ul>
 <h3>Old Projects</h3>
   <ul>
