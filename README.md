@@ -38,6 +38,7 @@
   <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>
   <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
   <a href="https://jquery.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="qt" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="40" height="40"/> </a>
   <!--h3>Backend Development</h3>
   <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a-->
   <h3>DataBase</h3>
