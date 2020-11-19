@@ -12,6 +12,9 @@
 <a href="https://www.linkedin.com/in/ilyasbenhssine/">
   <img align="left" width="20px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
+<a href="https://medium.com/@ilyasbenhssine">
+  <img align="left" width="20px" src="https://img.icons8.com/ios/50/000000/medium-logo.png"/>
+</a>
 
 --------------
 
