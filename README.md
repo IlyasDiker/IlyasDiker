@@ -68,6 +68,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
   <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vegas_Pro_15.0.png/600px-Vegas_Pro_15.0.png" alt="vegaspro" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://trello.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a>
   <a href="https://netbeans.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" alt="netbeans" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="vscode" width="40" height="40"/> </a>
   <a href="https://www.office.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Microsoft_Office_logo.png" alt="office" height="40"/> </a>
@@ -108,6 +109,7 @@
   <ul>
     <li><a href="https://github.com/The-art-of-kars">ART OF KARS</a></li>
     <li><a href="https://github.com/blabler">Blabler Chat Platform</a></li>
+    <li>Learning ElectronJS</li>
   </ul>
 <h3>Old Projects</h3>
   <ul>
