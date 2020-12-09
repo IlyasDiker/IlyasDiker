@@ -46,6 +46,7 @@
   <a href="https://jquery.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="qt" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="40" height="40"/> </a>
   <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" alt="vuetify" width="40" height="40"/> </a>
+  <a href="http://vuesax.com/" target="_blank"> <img src="https://lusaxweb.github.io/vuesax/vuesax-logo-beta.png" alt="vuesax" width="40" height="40"/> </a>
   <a href="https://material.io/" target="_blank"> <img src="https://www.bigroomstudios.com/wp-content/uploads/2016/12/material.io-icon.png" alt="material Design" width="40" height="40"/> </a>
   <!--h3>Backend Development</h3>
   <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a-->
