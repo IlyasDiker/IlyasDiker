@@ -89,7 +89,7 @@
 <summary>More Details</summary>
 <h3>Human Benchmark</h3>
   <ul>
-    <li>IQ : <b>150-160 point</b></li>
+    <li>IQ : <b>150-160 point </b> <i>(average result using multiple IQ tests)</i> </li>
     <li>Reaction time (expected) :  <b>59 ms</b></li>
     <li>Reaction time (non-expected):  <b>152 ms</b></li>
     <li>Highest Audible Frequency:  <b>21080 Hz</b></li>
