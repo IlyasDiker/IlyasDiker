@@ -87,6 +87,10 @@
 
 <details>
 <summary>More Details</summary>
+<h3>Github Trophies</h3>
+  
+  [![trophy](https://hacked-github-stat-trophies.vercel.app/?username=ilyasdiker)](https://github.com/ryo-ma/github-profile-trophy)
+  
 <h3>Human Benchmark</h3>
   <ul>
     <li>IQ : <b>150-160 point </b> <i>(average result using multiple IQ tests)</i> </li>
