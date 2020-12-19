@@ -117,7 +117,7 @@
   <ul>
     <li><a href="https://github.com/The-art-of-kars">ART OF KARS</a></li>
     <li><a href="https://github.com/blabler">Blabler Chat Platform</a></li>
-    <li>Learning ElectronJS / VueJS</li>
+    <li>Learning ElectronJS / Docker</li>
   </ul>
 <h3>Old Projects</h3>
   <ul>
