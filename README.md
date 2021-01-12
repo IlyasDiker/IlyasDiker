@@ -35,15 +35,15 @@
   <a href="https://www.lua.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="python" width="40" height="40"/> </a>
   <a href="http://www.pascal-programming.info/index.php" target="_blank"> <img src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.2.0/1601568276998/Microsoft.VisualStudio.Services.Icons.Default" alt="python" width="40" height="40"/> </a>
   <h3>Frontend Developement</h3>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="http://lesscss.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="http://lesscss.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/> </a>
   <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
   <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>
   <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
-  <a href="https://jquery.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="qt" width="40" height="40"/> </a>
+  <a href="https://jquery.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="40" height="40"/> </a>
   <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" alt="vuetify" width="40" height="40"/> </a>
   <a href="http://vuesax.com/" target="_blank"> <img src="https://lusaxweb.github.io/vuesax/vuesax-logo-beta.png" alt="vuesax" width="40" height="40"/> </a>
