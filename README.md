@@ -117,14 +117,8 @@
   <ul>
     <li><a href="https://github.com/The-art-of-kars">ART OF KARS</a></li>
     <li><a href="https://github.com/blabler">Blabler Chat Platform</a></li>
-    <li><a href="https://github.com/IlyasDiker/AtlasCss">Atlas cssLibrary/a></li>
+    <li><a href="https://github.com/IlyasDiker/AtlasCss">Atlas cssLibrary</a></li>
     <li>Learning ElectronJS / Docker / Spring Boot</li>
-  </ul>
-<h3>Old Projects</h3>
-  <ul>
-    <li>GNXT Computers</li>
-    <li>XSO Keys</li>
-    <li>Moul T-shirt</li>
   </ul>
 </details>
 
