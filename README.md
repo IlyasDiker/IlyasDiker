@@ -20,9 +20,12 @@
 </a>
 
 ---------------
-
+<!---
 ![IlyasDiker Github Stats](https://github-readme-stats.vercel.app/api?username=IlyasDiker&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasDiker&layout=compact)](https://github.com/IlyasDiker/IlyasDiker)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasDiker&layout=compact)](https://github.com/IlyasDiker/IlyasDiker)--->
+
+![Metrics](https://metrics.lecoq.io/IlyasDiker?template=classic&languages=1&isocalendar=1&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&config.timezone=Africa%2FCasablanca)
+
 
 <details>
   <summary>Languages & tools</summary>
