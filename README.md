@@ -21,8 +21,10 @@
 
 ---------------
 
-![IlyasDiker Github Stats](https://github-readme-stats.vercel.app/api?username=IlyasDiker&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasDiker&layout=compact)](https://github.com/IlyasDiker/IlyasDiker)
+<!--![IlyasDiker Github Stats](https://github-readme-stats.vercel.app/api?username=IlyasDiker&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasDiker&layout=compact)]-->
+![Overview](https://raw.githubusercontent.com/IlyasDiker/IlyasDiker-github-stats/master/generated/overview.svg)
+![TopLang](https://raw.githubusercontent.com/IlyasDiker/IlyasDiker-github-stats/master/generated/languages.svg)
 
 
 <details>
