@@ -119,7 +119,7 @@
 <h3>Currently Working on</h3>
   <ul>
     <li><a href="https://github.com/The-art-of-kars">ART OF KARS</a></li>
-    <li><a href="https://github.com/educato">Educato. - Made learning online easy</a></li>
+    <li><a href="https://github.com/EasyTransit">EasyTransit</a></li>
     <li><a href="https://github.com/IlyasDiker/AtlasCss">Atlas cssLibrary</a></li>
     <li>Learning ElectronJS / Spring Boot</li>
   </ul>
