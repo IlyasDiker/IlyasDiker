@@ -119,9 +119,7 @@
 <h3>Currently Working on</h3>
   <ul>
     <li><a href="https://github.com/The-art-of-kars">ART OF KARS</a></li>
-    <li><a href="https://github.com/EasyTransit">EasyTransit</a></li>
-    <li><a href="https://github.com/IlyasDiker/AtlasCss">Atlas cssLibrary</a></li>
-    <li>Learning ElectronJS / Spring Boot</li>
+    <li>Practicing to beat the Nordschleife BTG World Record, <a href="https://practicalmotoring.com.au/car-advice/what-is-the-nurburgring-and-why-should-you-care/#:~:text=That%20is%20why%20many%20timed,20-30%20seconds%20less%20time.">What the hell is a btg & why you should care ?</a></li>
   </ul>
 </details>
 
