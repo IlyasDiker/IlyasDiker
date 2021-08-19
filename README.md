@@ -100,6 +100,7 @@
     <li>IQ : <b>150-160 point </b> <i>(average result using multiple IQ tests)</i> </li>
     <li>Reaction time (expected) :  <b>59 ms</b></li>
     <li>Reaction time (non-expected):  <b>152 ms</b></li>
+    <li>Speed : near the speed of light <i>(especially with an AMG W12)</i></li>
     <li>Highest Audible Frequency:  <b>21080 Hz</b></li>
   </ul>
 <h3>My Values</h3>
