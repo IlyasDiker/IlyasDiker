@@ -128,4 +128,5 @@ Software engineer in the beginning of his carrer, with unleashed fuel in his vei
 
 --------------
 
-<img align="left" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-lightgrey"> <img src="https://visitor-badge.glitch.me/badge?page_id=ilyasdiker.visitor-badge" alt="visitor badge"/> ![Repos Badge](https://badges.pufler.dev/repos/ilyasdiker) ![looking for work](https://img.shields.io/badge/Looking%20for%20new%20opportunities-OFF-red)
+<img align="left" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-lightgrey"> <img src="https://visitor-badge.glitch.me/badge?page_id=ilyasdiker.visitor-badge" alt="visitor badge"/> ![Repos Badge](https://badges.pufler.dev/repos/ilyasdiker)
+<!-- ![looking for work](https://img.shields.io/badge/Looking%20for%20new%20opportunities-OFF-red) -->
