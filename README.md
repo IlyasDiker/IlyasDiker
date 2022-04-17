@@ -1,6 +1,6 @@
 ### Hi, I'm Ilyas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-Software engineer in the beginning of his carrer, with unleashed fuel in his veins, a V6-hybrid brain and a vision to change the automotive industry.
+Software engineer in the beginning of his carrer, with Unleaded fuel in his veins, a V6-hybrid brain and a vision to change the automotive industry.
 
 <a href="https://www.facebook.com/ilyas.Benhssine/">
   <img align="left" width="20px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
