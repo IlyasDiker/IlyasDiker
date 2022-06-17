@@ -1,4 +1,4 @@
-### Hi, I'm Ilyas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Hi, I'm Ilyas
 
 Software engineer in the beginning of his carrer, with Unleaded fuel in his veins, a V6-hybrid brain and a vision to change the automotive industry.
 
