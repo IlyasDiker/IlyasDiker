@@ -2,6 +2,8 @@
 
 Software engineer in the beginning of his carrer, with Unleaded fuel in his veins, a V6-hybrid brain and a vision to change the automotive industry.
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jtvx5kkfezfngm09ga60vqjml&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jtvx5kkfezfngm09ga60vqjml&redirect=true)
+
 <a href="https://www.facebook.com/ilyas.Benhssine/">
   <img align="left" width="20px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
 </a>
