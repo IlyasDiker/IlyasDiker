@@ -40,4 +40,5 @@
 --------------
 
 <img align="left" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-lightgrey"> <img src="https://visitor-badge.glitch.me/badge?page_id=ilyasdiker.visitor-badge" alt="visitor badge"/>
+[![wakatime](https://wakatime.com/badge/user/9b28c19f-18c5-4ec4-bc16-73e63c62f8c9.svg)](https://wakatime.com/@9b28c19f-18c5-4ec4-bc16-73e63c62f8c9)
 <!-- ![looking for work](https://img.shields.io/badge/Looking%20for%20new%20opportunities-OFF-red) -->
