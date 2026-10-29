@@ -23,20 +23,6 @@
 ![Overview](https://raw.githubusercontent.com/IlyasDiker/IlyasDiker-github-stats/master/generated/overview.svg)
 ![TopLang](https://raw.githubusercontent.com/IlyasDiker/IlyasDiker-github-stats/master/generated/languages.svg)
 
-
-<details>
-<summary>More Details</summary>
-<h3>Human Benchmark</h3>
-  <ul>
-    <li>IQ : <b>150-160 point </b> <i>(average result using multiple IQ tests)</i> </li>
-    <li>Reaction time (expected) :  <b>59 ms</b></li>
-    <li>Reaction time (non-expected):  <b>152 ms</b></li>
-    <li>Speed : near the speed of light <i>(especially with an AMG W12)</i></li>
-    <li>Highest Audible Frequency:  <b>21080 Hz</b></li>
-  </ul>
- 
-</details>
-
 --------------
 
 <img align="left" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-lightgrey"> <img src="https://visitor-badge.glitch.me/badge?page_id=ilyasdiker.visitor-badge" alt="visitor badge"/>
